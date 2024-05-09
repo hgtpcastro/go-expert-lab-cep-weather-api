@@ -1,0 +1,8 @@
+# 05407002 - São Paulo
+# 37191000 - Três Pontas
+# 37275000 - Cristais
+# 23548013 - Rio de Janeiro
+
+GET http://localhost:8080/?cep=23548013 HTTP/1.1
+Host: localhost:8080
+Content-Type: text/plain
